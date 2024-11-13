@@ -1,2 +1,2 @@
 # apna_College
-This is the description 
+This is the description.
